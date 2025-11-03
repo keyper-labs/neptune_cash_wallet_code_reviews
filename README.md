@@ -17,4 +17,7 @@ Each wallet provider or implementation has its own subdirectory containing:
 - **vxblocks**: Code review for vxblocks Neptune wallet implementation
   - `vxblocks_neptune_wallet_code_review_on_v2.0.1.pdf` - Review of version 2.0.1
 
+- **sploitzberg**: Code review for Neptune wallet implementation by Sploitzberg
+  - `sploitzberg_neptune_wallet_code_review_on_v1.0.4.pdf` - Review of version 1.0.4
+
 
